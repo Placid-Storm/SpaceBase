@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spacebase",
+  "name": "Space Base",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Placid_Storm"],
+  "credits": "We'll see who helps me out.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
